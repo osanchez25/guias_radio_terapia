@@ -28,7 +28,7 @@ body {
 .app-header {
   background: var(--color-primary);
   color: #fff;
-  padding: 0.5rem 1rem;
+  padding: 0.25rem 1rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -37,11 +37,13 @@ body {
   z-index: 1000;
 }
 .app-header .logo {
-  height: 40px;
+  height: 32px;
   margin: 0;
+  display: block;
 }
 .site-title {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
+  line-height: 1;
   margin: 0;
   display: flex;
   align-items: center;
@@ -95,7 +97,7 @@ body {
 /* Content page header */
 .section-header {
   color: #fff;
-  padding: 0.5rem 1rem;
+  padding: 0.25rem 0.75rem;
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -107,7 +109,7 @@ body {
 .section-header .back-arrow {
   background: none;
   border: none;
-  font-size: 2rem;
+  font-size: 1.5rem;
   cursor: pointer;
   color: inherit;
   padding: 0;
@@ -116,13 +118,13 @@ body {
 }
 
 .section-header .icon {
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin: 0;
 }
 
 .section-header h1 {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 .section-header p {
