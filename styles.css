@@ -43,7 +43,8 @@ body {
 }
 .site-title {
   font-size: 1.25rem;
-  white-space: nowrap;
+  margin: 0;
+  text-align: center;
 }
 
 .category-grid {
@@ -88,6 +89,31 @@ body {
 }
 .category-card:active {
   box-shadow: var(--shadow-sm);
+}
+
+/* Top bar for content pages */
+.top-header {
+  color: #fff;
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+.top-header h1 {
+  flex: 1;
+  margin: 0;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.back-arrow {
+  background: none;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: inherit;
 }
 
 /* Content pages */
