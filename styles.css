@@ -8,7 +8,11 @@
   --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.25);
 }
 
-html { --font-size: 16px; }
+html {
+  --font-size: 16px;
+  overscroll-behavior: none;
+}
+
 body {
   font-family: 'Roboto', Arial, sans-serif;
   margin: 0;
@@ -16,6 +20,8 @@ body {
   color: var(--color-text);
   font-size: var(--font-size);
   line-height: 1.6;
+  overscroll-behavior: none;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* Home page */
