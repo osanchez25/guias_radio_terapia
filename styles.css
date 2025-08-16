@@ -32,7 +32,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.5rem;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -44,7 +43,9 @@ body {
 .site-title {
   font-size: 1.25rem;
   margin: 0;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 .category-grid {
@@ -94,18 +95,16 @@ body {
 /* Content page header */
 .section-header {
   color: #fff;
-  padding: 0.75rem 1rem;
+  padding: 0.5rem 1rem;
   display: flex;
-  flex-direction: column;
   align-items: center;
+  gap: 0.5rem;
   position: sticky;
   top: 0;
   z-index: 1000;
-  text-align: center;
 }
 
 .section-header .back-arrow {
-  align-self: flex-start;
   background: none;
   border: none;
   font-size: 2rem;
@@ -117,12 +116,13 @@ body {
 }
 
 .section-header .icon {
-  font-size: 3rem;
-  margin: 0.5rem 0;
+  font-size: 2rem;
+  margin: 0;
 }
 
 .section-header h1 {
   margin: 0;
+  font-size: 1.5rem;
 }
 
 .section-header p {
