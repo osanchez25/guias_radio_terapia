@@ -190,3 +190,5 @@ body {
   .category-card span { font-size:0.85rem; }
   .section-card { margin: .5rem; padding: .5rem; }
 }
+.back-arrow { position:absolute; left:0.5rem; top:0.5rem; display:none; background:none; border:none; }
+@media (max-width:768px) { .section-header { position:relative; } .back-arrow { display:block; } }
