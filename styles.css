@@ -207,11 +207,20 @@ body {
 .font-popup button {
   background: none;
   border: none;
-  padding: .5rem .75rem;
-  font-size: 1rem;
+  padding: .75rem 1rem;
+  font-size: 1.25rem;
   cursor: pointer;
-  min-width: 44px;
-  min-height: 44px;
+  min-width: 50px;
+  min-height: 50px;
+}
+
+.font-popup span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  padding: 0 .5rem;
+  min-width: 2ch;
 }
 
 @media (max-width:768px) {
