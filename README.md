@@ -21,4 +21,4 @@ floating **A** button to toggle font-size controls.
 ## Creating more pages
 Use `proteccion_radiologica.html` as a template. Copy it, adjust the
 header color, update the titles and text, and replace image paths with
-the appropriate files from `../assets/images/`.
+the appropriate files from `./assets/images/`.
