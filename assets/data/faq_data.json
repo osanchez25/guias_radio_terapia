@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "name": "Protección Radiológica",
+      "icon": "security",
+      "questions": [
+        {
+          "question": "¿Qué medidas de protección radiológica están disponibles?",
+          "answer": "Ofrecemos chalecos de plomo, escudos móviles y técnicas de reducción de dosis para garantizar la seguridad durante los procedimientos."
+        },
+        {
+          "question": "¿Cuáles son las recomendaciones para minimizar la exposición a la radiación?",
+          "answer": "Recomendamos el uso adecuado de equipos de protección, la optimización de los parámetros de la máquina y mantener la distancia adecuada del paciente y la fuente de radiación."
+        }
+      ]
+    },
+    {
+      "name": "Mamografía y Tórax",
+      "icon": "medical_services",
+      "questions": [
+        {
+          "question": "¿Con qué frecuencia debo hacerme una mamografía?",
+          "answer": "Se recomienda realizar una mamografía cada 1-2 años a partir de los 40 años, o según la recomendación de su médico en base a sus factores de riesgo."
+        },
+        {
+          "question": "¿La radiografía de tórax es segura?",
+          "answer": "Sí, la radiografía de tórax utiliza una dosis baja de radiación y es una herramienta esencial para diagnosticar problemas pulmonares y cardíacos."
+        }
+      ]
+    },
+    {
+      "name": "Cáncer de Pelvis",
+      "icon": "fitness_center",
+      "questions": [
+        {
+          "question": "¿Qué tratamientos están disponibles para el cáncer de pelvis?",
+          "answer": "Los tratamientos incluyen radioterapia, quimioterapia y, en algunos casos, cirugía, dependiendo del tipo y estadio del cáncer."
+        },
+        {
+          "question": "¿Es doloroso el tratamiento de radioterapia para el cáncer de pelvis?",
+          "answer": "La radioterapia en sí no causa dolor durante el tratamiento, pero pueden presentarse efectos secundarios como fatiga o irritación de la piel en la zona tratada."
+        }
+      ]
+    },
+    {
+      "name": "Cáncer de Cuello Uterino",
+      "icon": "female",
+      "questions": [
+        {
+          "question": "¿Cómo se trata el cáncer de cuello uterino?",
+          "answer": "El tratamiento depende del estadio del cáncer e incluye radioterapia, quimioterapia y, en etapas tempranas, puede incluir cirugía."
+        },
+        {
+          "question": "¿La radioterapia para el cáncer de cuello uterino afecta la fertilidad?",
+          "answer": "La radioterapia pélvica puede afectar la fertilidad, por lo que es importante discutir con su médico las opciones de preservación de la fertilidad antes de iniciar el tratamiento."
+        }
+      ]
+    },
+    {
+      "name": "Cáncer Gástrico",
+      "icon": "stomach",
+      "questions": [
+        {
+          "question": "¿Cuáles son los síntomas del cáncer gástrico?",
+          "answer": "Los síntomas incluyen dolor abdominal, pérdida de peso inexplicada, fatiga, náuseas y vómitos. Consulte a un médico si presenta alguno de estos síntomas."
+        },
+        {
+          "question": "¿Qué opciones de tratamiento existen para el cáncer gástrico?",
+          "answer": "El tratamiento puede incluir cirugía, quimioterapia y radioterapia, dependiendo del estadio del cáncer y la salud general del paciente."
+        }
+      ]
+    },
+    {
+      "name": "Braquiterapia por Medio de Anillo",
+      "icon": "radio_button_checked",
+      "questions": [
+        {
+          "question": "¿Qué es la braquiterapia por medio de anillo?",
+          "answer": "Es un tratamiento de radioterapia interna en el que se coloca un anillo con una fuente de radiación en el área afectada, ofreciendo un tratamiento localizado y preciso."
+        },
+        {
+          "question": "¿Cuáles son los beneficios de la braquiterapia por medio de anillo?",
+          "answer": "Este tratamiento permite una mayor dosis de radiación en el área afectada con menos impacto en los tejidos circundantes, lo que reduce los efectos secundarios."
+        }
+      ]
+    },
+    {
+      "name": "Braquiterapia para el Cáncer de Próstata",
+      "icon": "male",
+      "questions": [
+        {
+          "question": "¿Cómo funciona la braquiterapia para el cáncer de próstata?",
+          "answer": "Se implantan pequeñas semillas radiactivas directamente en la próstata, lo que permite administrar una dosis alta de radiación al tumor mientras se minimiza la exposición a los tejidos cercanos."
+        },
+        {
+          "question": "¿La braquiterapia para el cáncer de próstata es dolorosa?",
+          "answer": "El procedimiento generalmente se realiza bajo anestesia, por lo que el dolor es mínimo. Los pacientes pueden experimentar algunos efectos secundarios como irritación o dificultad para orinar después del tratamiento."
+        }
+      ]
+    }
+  ]
+}
