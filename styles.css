@@ -106,6 +106,21 @@ body {
   color: inherit;
   margin-top: 0;
 }
+.section-card h4 {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
+.section-card h5 {
+  margin-top: 0.75rem;
+  font-size: 1rem;
+}
+.section-card ul {
+  margin: 0.5rem 0 1rem 1.25rem;
+  padding-left: 1rem;
+}
+.section-card ul li {
+  margin-bottom: 0.5rem;
+}
 .image-card {
   margin: 1rem;
   border-radius: 12px;
